@@ -1,0 +1,14 @@
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\bin\Debug\netcoreapp3.1\Actividad1_DAE_LMP.exe
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\bin\Debug\netcoreapp3.1\Actividad1_DAE_LMP.deps.json
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\bin\Debug\netcoreapp3.1\Actividad1_DAE_LMP.runtimeconfig.json
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\bin\Debug\netcoreapp3.1\Actividad1_DAE_LMP.runtimeconfig.dev.json
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\bin\Debug\netcoreapp3.1\Actividad1_DAE_LMP.dll
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\bin\Debug\netcoreapp3.1\Actividad1_DAE_LMP.pdb
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\obj\Debug\netcoreapp3.1\Actividad1_DAE_LMP.csproj.AssemblyReference.cache
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\obj\Debug\netcoreapp3.1\Actividad1_DAE_LMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\obj\Debug\netcoreapp3.1\Actividad1_DAE_LMP.AssemblyInfoInputs.cache
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\obj\Debug\netcoreapp3.1\Actividad1_DAE_LMP.AssemblyInfo.cs
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\obj\Debug\netcoreapp3.1\Actividad1_DAE_LMP.csproj.CoreCompileInputs.cache
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\obj\Debug\netcoreapp3.1\Actividad1_DAE_LMP.dll
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\obj\Debug\netcoreapp3.1\Actividad1_DAE_LMP.pdb
+C:\Users\diegomurillo\Desktop\LMP\DAE\Actividad1_DAE_LMP\Actividad1_DAE_LMP\obj\Debug\netcoreapp3.1\Actividad1_DAE_LMP.genruntimeconfig.cache
