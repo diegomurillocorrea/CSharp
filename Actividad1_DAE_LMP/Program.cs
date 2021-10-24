@@ -6,23 +6,38 @@ namespace Actividad1_DAE_LMP
     {
         static void Main(string[] args)
         {
+            int limit = 0;
+            Console.Write("Enter an amount: ");
+            limit = int.Parse(Console.ReadLine());
+
+            Console.Clear();
             // Declaring arrays
-            string[] name = new string[10];
-            int[] quantity = new int[10];
-            double[] price = new double[10];
+            string[] name = new string[limit];
+            int[] amount = new int[limit];
+            double[] price = new double[limit];
+            double total_price = 0;
 
             // Filling the arrays
-            for (int i = 0; i < 10; i++) {
+            for (int i = 0; i < limit; i++) {
                 Console.WriteLine("Welcome to Diego's Shop!\n");
-                Console.WriteLine($"Enter the name product {i+1}: ");
+                Console.WriteLine($"Enter the product name {i+1}: ");
                 name[i] = Console.ReadLine();
-                Console.WriteLine($"Enter how many {name[i]} you want: ");
-                quantity[i] = int.Parse(Console.ReadLine());
-                Console.WriteLine($"Enter the price product {i+1}: ");
+                Console.WriteLine($"Enter the amount of {name[i]} you want: ");
+                amount[i] = int.Parse(Console.ReadLine());
+                Console.WriteLine($"Enter the product price {i+1}: ");
                 Console.Write("$");
                 price[i] = double.Parse(Console.ReadLine());
+                total_price += price[i];
                 Console.Clear();
             }
+
+            Console.WriteLine($"These are the products you entered\n");
+            for (int i = 0; i < limit; i++) {
+                Console.WriteLine("Product\t\t\t amount\t\t Price");
+                Console.WriteLine($"{name[i]}\t\t\t {amount[i]}\t\t\t {price[i]}");
+            }
+            Console.Write($"\nThe total price including the IVA 13% is: ${Math.Round(total_price + (total_price * 0.13), 2)}");
+            Console.WriteLine("\nThanks for choosing Diego's shop!");
         }
     }
 }
